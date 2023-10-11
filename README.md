@@ -15,4 +15,4 @@ Industry - Industry of the company.
 Market Cap - Total value of company shares.
 
 ### Special Characteristics of Data
-Market Cap data is given in a mix of billions of dollars and millions of dollars. For instance, the market cap of Apple Inc. is "2,788.98B" and for 	WK Kellogg Co is "922.72M".
+The dataset only uses the first 500 entries out of the 5792 total US stocks. Moreover, market cap data is given in a mix of billions of dollars and millions of dollars. For instance, the market cap of "Apple Inc." is 2,788.98B and for "WK Kellogg Co" is 922.72M.
