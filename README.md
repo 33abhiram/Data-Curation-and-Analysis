@@ -5,7 +5,7 @@ The goal of this project is to construct, analyze, and publish a dataset about U
 
 To gather data, I used python's BeautifulSoup web-scraping library. Its documentation can be found here: https://beautiful-soup-4.readthedocs.io/en/latest/#.
 
-### Data Description
+### Data Dictionary
 Symbol - Ticker symbol to identify stock.
 
 Company Name - Name of the company.
