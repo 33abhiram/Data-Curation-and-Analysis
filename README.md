@@ -28,3 +28,5 @@ Market Cap - Total value of company shares.
 
 ### Special Characteristics of Data
 The dataset only uses the first 500 entries out of the 5792 total US stocks. Moreover, market cap data is given in a mix of billions of dollars and millions of dollars. For instance, the market cap of "Apple Inc." is 2,788.98B and for "WK Kellogg Co" is 922.72M. This can be seen in the raw data. However, I take this into account before uploading the final csv final into data.world and this repository - I converted these strings into reliable float values for data analysis.
+
+Through data analysis techniques, I found that the largest companies by market cap (in the dataset) are Apple, Amazon and AbbVie, and the median market cap for a given company is 434 million USD while the mean is 15.9 billion USD. Large companies like Apple and Amazon have market cap values of over 1 trillion USD and these values skew up the mean market cap.
